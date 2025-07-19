@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "c761bdf_SkidlyFgj-qhmg",
+  "Reference": "3BtFddt59UK3u6qYqxQHYA/c761bdf_SkidlyFgj-qhmg",
+  "ParentRef": "3BtFddt59UK3u6qYqxQHYA/BRWXHok3vky6odupNXxKEw",
+  "Created": "2025-07-19T11:32:00.8480258Z",
+  "Updated": "2025-07-19T11:32:00.8480258Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

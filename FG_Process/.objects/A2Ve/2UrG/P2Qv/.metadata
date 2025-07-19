@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Login — Shopper.com",
+  "Type": "Screen",
+  "Id": "P2Qvs9c4jUqQdlq-PTzo4Q",
+  "Reference": "3BtFddt59UK3u6qYqxQHYA/P2Qvs9c4jUqQdlq-PTzo4Q",
+  "ParentRef": "3BtFddt59UK3u6qYqxQHYA/2UrGIfTqTE2AB5Qezj4P4g",
+  "Created": "2025-07-19T11:36:07.2101205Z",
+  "Updated": "2025-07-19T11:36:07.2101205Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
