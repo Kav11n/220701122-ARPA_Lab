@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="kkSdN6ToXEWMxAhtjdocbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopper.com/login" CVScreenId="d4efee99-63b8-40ba-a5ee-8f590e2e318d" CvElementArea="642, 624, 633, 78" CvType="InputBox" DesignTimeRectangle="644, 626, 630, 75" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='email' class='email _signup_container_body_input' placeholder='Email' aaname='' /&gt;" Guid="2745cbef-9118-477e-8b2a-ebc58a08c907" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login — Shopper.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="015afc414455b2fb400a09537a5d7174.png" xmlns="">0d_RY-aSbfEiBgHB7yXd6kQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">TypeInto</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
