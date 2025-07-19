@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sp1yXl7BX0CRMKdgNyY9Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shopper.com/login" CVScreenId="d4efee99-63b8-40ba-a5ee-8f590e2e318d" CvElementArea="639, 855, 637, 98" CvTextArea="918, 888, 81, 34" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="644, 860, 630, 90" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='' class='_signup_container_body_create_button _signup_container_field_container' aaname='Login Logging to your page' check:innerText='Login' /&gt;" Guid="e2b42921-0805-4e18-8b28-627a293f9b98" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Login — Shopper.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d4efee99-63b8-40ba-a5ee-8f590e2e318d" CvElementArea="639, 855, 637, 98" CvTextArea="918, 888, 81, 34" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="644, 890, 630, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='login_button_text' parentid='signInForm' tag='DIV' type='' aaname='Login' check:innerText='Login' /&gt;" Guid="c249e4ce-da8c-4fb5-af82-214990060bde" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="297151cc089bd165ff9c2f5cc6a7ba21.png" xmlns="">0SFgNVyPpUEu-cjarS4Gyig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
